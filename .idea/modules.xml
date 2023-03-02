@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number-Guessing-Game/Number-Guessing-Game.iml" filepath="$PROJECT_DIR$/Number-Guessing-Game/Number-Guessing-Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPR-game/SPR-game.iml" filepath="$PROJECT_DIR$/SPR-game/SPR-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control-statement/control-statement.iml" filepath="$PROJECT_DIR$/control-statement/control-statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learningvector/learningvector.iml" filepath="$PROJECT_DIR$/learningvector/learningvector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/looping/looping.iml" filepath="$PROJECT_DIR$/looping/looping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops-2/oops-2.iml" filepath="$PROJECT_DIR$/oops-2/oops-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
